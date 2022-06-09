@@ -1,8 +1,7 @@
-import Info from "./component/Info";
-
+import Average from "./component/Average";
 
 const App=()=> {
-  return <Info></Info>
+  return <Average></Average>
 };
 
 export default App;
